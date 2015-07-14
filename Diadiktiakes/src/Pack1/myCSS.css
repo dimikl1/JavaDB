@@ -1,0 +1,19 @@
+.root{
+    -fx-font-size: 18pt;
+    -fx-font-family: "Tahoma";
+    -fx-background: url("/images/tei.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 612 488;
+    -fx-background-position: center center;
+}
+
+
+#pane{
+    -fx-font-size: 18pt;
+    -fx-font-family: "Tahoma";
+    -fx-background: url("tei.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 612 488;
+    -fx-background-position: center center;
+   
+}
